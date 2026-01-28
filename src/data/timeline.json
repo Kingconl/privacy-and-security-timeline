@@ -1,0 +1,38 @@
+[
+  {
+    "id": "microsoft-bitlocker-not-e2ee",
+    "title": "Microsoft Confirmed to Backup BitLocker Keys in Plain-text, Hands Them Over to Law Enforcement",
+    "description": "Going against standard practice in the industry, Microsoft backs-up your BitLocker Recovery Keys in plain-text, rather than in an end-to-end encrypted form. Apple, on the other hand, backs-up your FileVault Recovery Key end-to-end encrypted as part of your keychain, rendering it entirely unreadable by them and, by extension, law enforcement.",
+    "date": "2026-01-23",
+    "sources": [
+      {
+        "site": "Forbes",
+        "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw",
+        "url": "https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/"
+      }
+    ]
+  },
+  {
+    "id": "canada-computers-card-skimmer",
+    "title": "Canada Computers Website Compromised, Card-skimming Malware Injected",
+    "description": "Canada Computers website was compromised by an attack who injected card-skimming malware on payment pages. Initially publicized on Reddit by a customer at least 18 days after initially injected, Canada Computers finally took action the same day and began notifying impacted customers 4 days later.",
+    "date": "2026-01-22",
+    "sources": [
+      {
+        "site": "Reddit",
+        "title": "Canada Computers online card skimmer",
+        "url": "https://old.reddit.com/r/bapccanada/comments/1qk4axy/canada_computers_online_card_skimmer/"
+      },
+      {
+        "site": "MobileSyrup",
+        "title": "Canada Computers customers say retailer’s website compromised their credit cards",
+        "url": "https://mobilesyrup.com/2026/01/23/canada-computers-website-malware-credit-cards-stolen-report/"
+      },
+      {
+        "site": "iPhone in Canada",
+        "title": "Major Canada Computers Breach: Customers Warned to Cancel Cards",
+        "url": "https://www.iphoneincanada.ca/2026/01/26/major-canada-computers-breach-customers-warned-to-cancel-cards/"
+      }
+    ]
+  }
+]
