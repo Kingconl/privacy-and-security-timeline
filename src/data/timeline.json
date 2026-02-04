@@ -52,5 +52,18 @@
         "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361"
       }
     ]
+  },
+  {
+    "id": "23andMe-Data-Breach",
+    "title": "23 and Me, a very popular consumer ancestry test, confirms a data breach affecting 6.9 million users",
+    "description": "DNA testing company 23andMe confirmed that attackers accessed ancestry and genetic data of millions of users via credential stuffing, raising major concerns about consent, genetic privacy, and long-term harms from irreversible data exposure.",
+    "date": "2023-10-06",
+    "sources": [
+      {
+        "site": "The HIPAA Journal",
+        "title": "6.9 Million 23andMe Users Affected by Data Breach",
+        "url": "https://www.hipaajournal.com/6-9-million-23andme-users-affected-by-data-breach/"
+      }
+    ]
   }
 ]
